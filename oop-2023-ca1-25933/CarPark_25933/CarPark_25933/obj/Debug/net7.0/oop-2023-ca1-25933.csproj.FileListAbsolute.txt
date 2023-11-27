@@ -1,0 +1,4 @@
+C:\Users\CEM\Desktop\COLLEGE\back\CarPark_25933\CarPark_25933\obj\Debug\net7.0\oop-2023-ca1-25933.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEM\Desktop\COLLEGE\back\CarPark_25933\CarPark_25933\obj\Debug\net7.0\oop-2023-ca1-25933.AssemblyInfoInputs.cache
+C:\Users\CEM\Desktop\COLLEGE\back\CarPark_25933\CarPark_25933\obj\Debug\net7.0\oop-2023-ca1-25933.AssemblyInfo.cs
+C:\Users\CEM\Desktop\COLLEGE\back\CarPark_25933\CarPark_25933\obj\Debug\net7.0\oop-2023-ca1-25933.csproj.CoreCompileInputs.cache
